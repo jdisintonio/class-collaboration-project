@@ -31,4 +31,7 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 ```markdown
 ### Student Name: John Doe
 
-Hi, I’m John! I’m interested in web development and learning about AI. My favorite programming language is JavaScript. 🚀
+Hi, I'm Jorge! I have a passion for volleyball and for this school year I hope to learn a lot about web development and technology related topics. I have a dog who's name is Benji and he is my reason to try harder each day. <img src="https://github.com/user-attachments/assets/7e2dd0fc-1b23-4310-95e2-8f8a20605cbb" alt="My Image" />
+
+
+
