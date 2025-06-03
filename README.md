@@ -15,9 +15,7 @@ This is a collaborative space where students will:
 ---
 
 ## 👥 Contributors
-
 Below, you’ll add your personal introduction! Follow the instructions provided by your teacher.
-
 ---
 
 ## ✍️ Edit Section (For Students)
@@ -31,4 +29,4 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 ```markdown
 ### Student Name: John Doe
 
-Hi, I’m John! I’m interested in web development and learning about AI. My favorite programming language is JavaScript. 🚀
+Hi my name is Ivan Salinas im 17 years old i like to play fornite, to play futbol, im good in all subjects about technology 
