@@ -34,5 +34,5 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 Hi, I’m Daniela! I’m interested in videogames and anime. My favorite anime is Elfen Lied. My favorite color is blue. I like cats. I'm also interested in criminalist, I really like those things like criminal cases. I also like a little bit of literature, I enjoy reading poetry and comics or mangas 😼
 
 
+![touhou-cirno](https://media.tenor.com/iPKa5SFvaKAAAAAi/touhou-cirno.gif)
 
-![touhou-cirno](https://github.com/user-attachments/assets/78bb64ff-4a37-441f-a29e-674a564287ae)
