@@ -12,8 +12,7 @@ This is a collaborative space where students will:
 - Edit the README file to add a personal introduction.
 - Submit a pull request to merge their changes.
 
----
-
+---My name is Analy Avila from 3BGU B, I'm 17 years old, my favourite hobby's are going to the gym, listening to music from artists like Billy Joel, Luis Miguel and BTS, also i like to spend time on my friend's home.
 ## 👥 Contributors
 
 Below, you’ll add your personal introduction! Follow the instructions provided by your teacher.
