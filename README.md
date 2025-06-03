@@ -29,6 +29,6 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 
 **Example:**
 ```markdown
-### Student Name: John Doe
+### Student Name: Valentina Jurado
 
-Hi, I’m John! I’m interested in web development and learning about AI. My favorite programming language is JavaScript. 🚀
+Hello, my name is Valentina, I'm currently seventeen years old and my favorite things to do on my free time is watching movies and liestening to music. I enjoy my time at school because I get to hang out with my friends and even though classes sometimes may be a bit boring, I try to do my best and pay attention to what the teachers say.
