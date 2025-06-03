@@ -21,14 +21,10 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 ---
 
 ## ✍️ Edit Section (For Students)
+Student Name: Abiah Soledispaaaaa Marmol 
+course: 3 BGU B or Senior Year 
+my favourite soccer team is Barcelona Sporting Club
 
-**Instructions:**
-1. Fork this repository.
-2. Create a branch named after yourself (e.g., `studentname-branch`).
-3. Edit this section by adding a short introduction about yourself.
+Hi, I’m Abiah Soledispa! I’m interested in really soccer, music, pizza, some video games and learning about the use of AI. My favorite programming language is JavaScript. Once I tried to learn JavaScript, bu quickly gave up since I consiedered it to be really difficult. 🚀
 
-**Example:**
-```markdown
-### Student Name: John Doe
-
-Hi, I’m John! I’m interested in web development and learning about AI. My favorite programming language is JavaScript. 🚀
+ <img src="https://www.barcelonasc.com.ec/wp-content/uploads/2025/01/Web-Generico-1229x1536.jpg" alt="i love soccer"> 
