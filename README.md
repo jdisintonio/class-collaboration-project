@@ -15,9 +15,7 @@ This is a collaborative space where students will:
 ---
 
 ## 👥 Contributors
-
-Below, you’ll add your personal introduction! Follow the instructions provided by your teacher.
-
+Hi my name is Ivan Salinas im 17 years old i like to play fornite, to play futbol, im good in all subjects about technology 
 ---
 
 ## ✍️ Edit Section (For Students)
