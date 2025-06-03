@@ -1,1 +1,7 @@
----My name is Analy Avila from 3BGU B, I'm 17 years old, my favourite hobby's are going to the gym, listening to music from artists like Billy Joel, Luis Miguel and BTS, also i like to spend time on my friend's home.
+My name is Analy Avila.
+I'm from 3BGU B and I'm 17 years old.
+My Favorite Hobbies:
+-Going to the gym
+-Listening to music by Billy Joel, Luis Miguel, and BTS
+-Spending time at my friend's home
+My Favorite Movie: "Aftersun"
