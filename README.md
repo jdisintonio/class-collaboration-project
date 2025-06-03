@@ -15,20 +15,13 @@ This is a collaborative space where students will:
 ---
 
 ## 👥 Contributors
-
-Below, you’ll add your personal introduction! Follow the instructions provided by your teacher.
+### Hello! My name is Lissette ⭐. One of my interests is the graphic design 🚀. I love to express what I feel through ilustrations and edits. 📌
 
 ---
 
-## ✍️ Edit Section (For Students)
-
-**Instructions:**
-1. Fork this repository.
-2. Create a branch named after yourself (e.g., `studentname-branch`).
-3. Edit this section by adding a short introduction about yourself.
-
-**Example:**
-```markdown
-### Student Name: John Doe
-
-Hi, I’m John! I’m interested in web development and learning about AI. My favorite programming language is JavaScript. 🚀
+## 🎠 Hobbies
+1. Draw ✍️
+2. Play the playstation 🤩
+3. Singing 🎤
+4. GYM 💪
+5. Watch tv shows and movies 🛸
