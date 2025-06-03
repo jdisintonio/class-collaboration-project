@@ -22,13 +22,7 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 
 ## ✍️ Edit Section (For Students)
 
-**Instructions:**
-1. Fork this repository.
-2. Create a branch named after yourself (e.g., `studentname-branch`).
-3. Edit this section by adding a short introduction about yourself.
 
-**Example:**
-```markdown
-### Student Name: John Doe
+ Student Name: Maria Jose     
 
-Hi, I’m John! I’m interested in web development and learning about AI. My favorite programming language is JavaScript. 🚀
+Hi, I’m Maria Jose! I really don't like coding but i will do my best with this platform 
