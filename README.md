@@ -34,4 +34,3 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 ### Student Name: Daniela Gavilanes
 
 Hi, I’m Daniela! I’m interested in videogames and anime. My favorite anime is Elfen Lied. My favorite color is blue. I like cats. I'm also interested in criminalist, I really like those things like criminal cases. I also like a little bit of literature, I enjoy reading poetry and comics or mangas 😼
-
