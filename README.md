@@ -12,6 +12,8 @@ This is a collaborative space where students will:
 - Edit the README file to add a personal introduction.
 - Submit a pull request to merge their changes.
 
+![touhou-cirno](https://github.com/user-attachments/assets/d346fc77-9256-48b8-a6d2-6c0fd641aa25)
+
 ---
 
 ## 👥 Contributors
@@ -32,7 +34,4 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 ### Student Name: Daniela Gavilanes
 
 Hi, I’m Daniela! I’m interested in videogames and anime. My favorite anime is Elfen Lied. My favorite color is blue. I like cats. I'm also interested in criminalist, I really like those things like criminal cases. I also like a little bit of literature, I enjoy reading poetry and comics or mangas 😼
-
-
-![touhou-cirno](https://media.tenor.com/iPKa5SFvaKAAAAAi/touhou-cirno.gif)
 
