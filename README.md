@@ -29,6 +29,6 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 
 **Example:**
 ```markdown
-### Student Name: John Doe
+### Student Name: Daniela Gavilanes
 
-Hi, I’m John! I’m interested in web development and learning about AI. My favorite programming language is JavaScript. 🚀
+Hi, I’m Daniela! I’m interested in videogames and anime. My favorite anime is Elfen Lied. 🚀
