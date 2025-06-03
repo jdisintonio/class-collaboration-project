@@ -31,5 +31,7 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 ```markdown
 ### Student Name: John Doe
 
-Hi, I'm Jorge! I have a passion for volleyball and for this school year I hope to learn a lot about web development and technology related topics. I have a dog who's name is Benji and he is my reason to try harder each day. ![image](https://github.com/user-attachments/assets/6683bf6e-e870-4dcb-9cf4-b9ff657e2fdf)
+Hi, I'm Jorge! I have a passion for volleyball and for this school year I hope to learn a lot about web development and technology related topics. I have a dog who's name is Benji and he is my reason to try harder each day. <img src="https://github.com/user-attachments/assets/7e2dd0fc-1b23-4310-95e2-8f8a20605cbb" alt="My Image" />
+
+
 
