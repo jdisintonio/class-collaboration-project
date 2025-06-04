@@ -27,8 +27,14 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 2. Create a branch named after yourself (e.g., `studentname-branch`).
 3. Edit this section by adding a short introduction about yourself.
 
+---
+
+## Delete these instructions and add the information required. Use markdown codes. You may insert images or videos por extra credit. 
+
+
 **Example:**
-```markdown
+```markdown 
 ### Student Name: John Doe
 
 Hi, I’m John! I’m interested in web development and learning about AI. My favorite programming language is JavaScript. 🚀
+
